@@ -105,3 +105,5 @@ dist
 
 # ort outputs
 ort-result
+# more generically
+sca-result
